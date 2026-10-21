@@ -11,7 +11,3 @@ I'm a Bunny
 ## Project
 - asdfghj
 - asdfghjkjk
-
-## Social
-- git: asdfghjk
-- linkdin: sdfghj
