@@ -2,3 +2,8 @@
 
 ## About Me
 I'm a Bunny
+
+## Skills
+- communication
+- problem solvingg
+- coding 
